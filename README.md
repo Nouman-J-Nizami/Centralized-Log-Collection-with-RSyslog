@@ -1,4 +1,4 @@
-# W24D1 – Centralized Log Collection with RSyslog
+# Centralized Log Collection with RSyslog
 
 ## Overview
 This project demonstrates the implementation of a centralized logging solution using **RSyslog**. A **Kali Linux** machine was configured as a Syslog server, while a **Windows 11** machine was configured to forward Windows Event Logs using the **RSyslog Windows Agent**.
